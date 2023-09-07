@@ -1,6 +1,6 @@
 # SampleApp
 
-![image](https://github.com/djabbat/phoenix_signup/assets/8047668/5d2d7a3b-61a5-4336-9a86-016573ea29eb)
+![image](https://github.com/djabbat/phoenix_login/assets/8047668/63fe55ff-8b92-45bb-b1ba-7cfc132746ed)
 
 To start your Phoenix server:
 
